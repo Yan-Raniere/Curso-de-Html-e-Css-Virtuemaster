@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;   
+}
+
+header{
+    background-color: #d2d2d2;
+    text-align: center;
+    padding: 45px 0 45px 0;
+}
+header h1 img{
+    padding:20px;
+}
+header .title-h1{
+    font-size: 35px;
+}
